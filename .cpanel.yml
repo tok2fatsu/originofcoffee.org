@@ -1,5 +1,5 @@
 ---
 deployment:
  tasks:
-  - export DEPLOYPATH=/home/originrm/public_html/
+  - export DEPLOYPATH=/home/originrm/
   - /bin/cp -r * $DEPLOYPATH
